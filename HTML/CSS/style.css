@@ -1,0 +1,26 @@
+*{
+    background-color: aquamarine;
+}
+h1{
+    font-size: 4rem;
+    text-shadow: 5px 5px 5px orangered;
+}
+h2{
+    font-size: 3rem;
+    color: green;
+    text-shadow: -5px 5px 5px yellow;
+}
+ol{
+    list-style-type: lower-roman;
+    font-size: 2rem;
+}
+ul{
+    list-style-type: decimal-leading-zero;
+    font-size: x-large;
+}
+
+h3{
+    font-size: 3rem;
+    color: purple;
+    text-shadow: 5px 5px 5px palevioletred;
+}
